@@ -1,8 +1,12 @@
 # timer_bloc
 
-Simple Counter App, implemented with BLoC.
-Demo of the App: 
+x
 ![](app_demo/demo.gif)]
+
+
+
+
+![](name-of-giphy.gif)
 
 ## Getting Started
 
