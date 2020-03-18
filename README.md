@@ -1,7 +1,6 @@
 # timer_bloc
 
-x
-![](app_demo/demo.gif)]
+![](app_demo/demo.gif)
 
 
 
