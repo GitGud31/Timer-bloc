@@ -1,6 +1,6 @@
 # timer_bloc
 
-A new Flutter project.
+Simple Counter App, implemented with BLoC.
 
 ## Getting Started
 
