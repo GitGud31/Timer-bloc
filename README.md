@@ -2,7 +2,7 @@
 
 Simple Counter App, implemented with BLoC.
 Demo of the App: 
-![](app_demo/demo.mp4)]
+![](app_demo/demo.gif)]
 
 ## Getting Started
 
